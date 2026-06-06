@@ -6,5 +6,3 @@ crosstool-ng
 aesd-build
 .vscode/
 test.sh.log
-ssh_key
-ssh_key.pub
